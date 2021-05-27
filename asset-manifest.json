@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/contextapi-form/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/contextapi-form/static/js/main.6c88988e.chunk.js",
+    "main.js.map": "/contextapi-form/static/js/main.6c88988e.chunk.js.map",
+    "runtime-main.js": "/contextapi-form/static/js/runtime-main.7d2b22d4.js",
+    "runtime-main.js.map": "/contextapi-form/static/js/runtime-main.7d2b22d4.js.map",
+    "static/js/2.f1d4a992.chunk.js": "/contextapi-form/static/js/2.f1d4a992.chunk.js",
+    "static/js/2.f1d4a992.chunk.js.map": "/contextapi-form/static/js/2.f1d4a992.chunk.js.map",
+    "static/js/3.097ea425.chunk.js": "/contextapi-form/static/js/3.097ea425.chunk.js",
+    "static/js/3.097ea425.chunk.js.map": "/contextapi-form/static/js/3.097ea425.chunk.js.map",
+    "index.html": "/contextapi-form/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/contextapi-form/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.f1d4a992.chunk.js.LICENSE.txt": "/contextapi-form/static/js/2.f1d4a992.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d2b22d4.js",
+    "static/js/2.f1d4a992.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.6c88988e.chunk.js"
+  ]
+}
